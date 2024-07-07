@@ -1,1 +1,5 @@
-# InterruptAffinityPolicyManager
+# TODO
+
+- 技術選定
+  できればC++のみで作りたいが、WinUI3で開発するにはC#を使わないといけない。
+  コアな部分はC++で作ってUI側はそれを呼び出すだけにしたい。

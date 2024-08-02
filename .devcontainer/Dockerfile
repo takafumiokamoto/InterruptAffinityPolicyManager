@@ -1,3 +1,0 @@
-FROM mcr.microsoft.com/vscode/devcontainers/typescript-node:latest
-RUN apt -y update && \
-apt -y upgrade
